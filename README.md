@@ -9,6 +9,6 @@ Generate an assembly based on a directory of scripts
 
 
 Executing those scripts
-.\FluentMigratorRD.exe -m "ExecutePackage" -i C:\Temp\autogen.dll -c "server=.;Trusted_Connection=yes;database=balazs;Integrated Security=SSPI;"
+.\FluentMigratorRD.exe -m "ExecutePackage" -i C:\Temp\autogen.dll -c "server=.;Trusted_Connection=yes;database=dbname;Integrated Security=SSPI;"
 
 --Eoin C
